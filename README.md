@@ -1,5 +1,7 @@
 # Egg---Catcher---Game---Python
 
+In this game player's goal is to catch the colored eggs as many as possible in the provided basket.
+
 ![1](https://user-images.githubusercontent.com/87390245/163798296-0241721a-1717-4b08-a9ca-996a6736584b.png)
 
 
